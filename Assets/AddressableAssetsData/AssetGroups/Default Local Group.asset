@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 80e8e0aaab7e37b4084b72f287df5f5d
+  m_SerializeEntries:
+  - m_GUID: 001bf9c7b76ac374a89b538b33dd67de
+    m_Address: Animator/DNEntityAnimController_Goat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d079c0737bf2f246b127fb22a014fa1
+    m_Address: Sound/Voice_Pug_2_failed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 144604d9ace6eb748aea35ecebf0cc27
+    m_Address: Texture2D/Texture2D_Loading_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23d71935d14f56a4487dbbaf3a022958
+    m_Address: Sound/Pugmia_Bgm_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37d307305e9528a48a2e0ffdadfe5760
+    m_Address: Texture2D/Texture2D_Loading_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43237ee419ec47b49a6349f963676aa1
+    m_Address: 2DPrefab/Harvest_Potato
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 667b719d1d688874a8f6a8ad59d98106
+    m_Address: Icon/Icon_Item_Box_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6944ee773693552429ee1d4ddbe1dc22
+    m_Address: Map/Field/Town_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6caf508fb2c9a304cbab300f30d5cf19
+    m_Address: Sound/Voice_Pug_1_I_WantToEatPizza
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f44f0509ed049e4dbe0904fd8318ca5
+    m_Address: 2DPrefab/Harvest_Corn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86ea04a4247bcb946a8711d3d1d41c91
+    m_Address: 3DPrefab/Harvest_Potato
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 904962222e1f17f4da1fb0904cceeec7
+    m_Address: Animator/DNEntityAnimController
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 988485599ab6ecb4db508e35e6b5086a
+    m_Address: Sound/Pugmia_Bgm_Housing_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4d5da601618ed9428524268ae8d1abc
+    m_Address: 2DObject/Monster_Slime
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8ad8711622a2504ab146aab7af00e91
+    m_Address: Map/Field/Town_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adb5bb06f191c2c4298194cd3cfc7c4d
+    m_Address: Icon/Icon_Bear
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7325cc89a7726d46b0fbb47a03aec4b
+    m_Address: 2DObject/Npc_Queen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bab0dab329b3a2e45bff7ba9f9c889b4
+    m_Address: Sound/Pugmia_Bgm_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfc5f99017f834a4aa425168d9f3048d
+    m_Address: Icon/Icon_Item_Corn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8d61a3cf509c944a9072703554e32fb
+    m_Address: Sound/Voice_Pug_1_success
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df4b9db6244ad7844b9142d9efea3d5c
+    m_Address: Map/Field/Town_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfacb9a7993b56549856b388f1b5189a
+    m_Address: 3DPrefab/Harvest_Corn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee576bc3af086904aa8c6b4881690f94
+    m_Address: 3DPrefab/DropItem_Gold
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef57a9a2d00610546a0d5a2f7d51c3e6
+    m_Address: Icon/Icon_Slime
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5c8b6dc56a8e634a8f2a0cfbee2941d
+    m_Address: 3D/Goat_White
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5ff25177269bce4289b904b57f787cd
+    m_Address: 2DObject/Monster_Bear
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa10f0e6a7fa0194585cc5d634b0a558
+    m_Address: 2DPrefab/DropItem_Gold
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc45c545af9b8db40946bef8d93b6923
+    m_Address: 3D/Character_Player_DaniTech_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 63c4807bce69c4648a6a3ca45ef8109f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 799d3b4408f16d94bb75f6c5247d5700, type: 2}
+    - {fileID: 11400000, guid: 9532bd1663a620e4191c48dd4baa4662, type: 2}
